@@ -8,10 +8,3 @@ QA-Automation
 ├── Reports
 └── Documentation
 
-AutomationScripts → Selenium / API automation code
-
-TestCases → Excel ya documentation
-
-Reports → execution reports
-
-Documentation → QA process docs
